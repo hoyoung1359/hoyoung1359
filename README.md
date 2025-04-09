@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome%20&fontSize=90)
 
-![My Languages](https://skillicons.dev/icons?i= cpp, py, md, html, css, js, ts)
+
+![My Languages](https://skillicons.dev/icons?i=cpp,py,md,html,css,js,ts)
 
 
 <!-- [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoyoung1359&layout=compact&theme=moltack) -->
