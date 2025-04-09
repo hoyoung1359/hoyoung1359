@@ -4,7 +4,8 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome%20&fontSize=90)
 
 
-![My Languages](https://skillicons.dev/icons?i=cpp,py,md,html,css,js,ts)
+![Languages](https://skillicons.dev/icons?i=cpp,py,md,html,css,js,ts)
+![Framework/Libraries/Tools](https://skillicons.dev/icons?i=pytorch,mysql,git,github,linux,aws,nodejs,react,nextjs,tailwind,vercel,figma,notion&perline=10)
 
 </div>
 
