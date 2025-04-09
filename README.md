@@ -5,7 +5,7 @@
 
 
 ![Languages](https://skillicons.dev/icons?i=cpp,py,md,html,css,js,ts)
-![Framework/Libraries/Tools](https://skillicons.dev/icons?i=pytorch,mysql,git,github,linux,aws,nodejs,react,nextjs,tailwind,vercel,figma,notion&perline=10)
+![Framework/Libraries/Tools](https://skillicons.dev/icons?i=pytorch,mysql,git,github,linux,aws,nodejs,react,nextjs,tailwind,vercel,figma,notion&perline=7)
 
 </div>
 
