@@ -3,7 +3,7 @@
  
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome%20&fontSize=90)
 
-![Languages](https://skillicons.dev/icons?i=cpp,py,md,html,css,js,ts&perline=7)
+![Languages](https://skillicons.dev/icons?i=cpp,py,md,html,css,js,ts&perline=7&theme=light)
 
 
 ![Framework/Libraries/Tools](https://skillicons.dev/icons?i=pytorch,mysql,git,github,linux,aws,nodejs,react,nextjs,tailwind,vercel,figma,notion&perline=7&theme=light)
